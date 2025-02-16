@@ -2,7 +2,10 @@
 // Created by erkam on 2/14/25.
 //
 
-// Solution: Generally 
+// Solution:
+// The first ones are usually close numbers
+// the last one is always zero,
+// but the others are always completely different numbers.
 
 #include <stdio.h>
 

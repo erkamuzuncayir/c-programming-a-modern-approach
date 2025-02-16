@@ -1,7 +1,17 @@
 # ninja log v6
-0	16	1739550705441573096	CMakeFiles/c-programming-a-modern-approach.dir/ch_01/exercises/ex_04.c.o	efc0c6d0492cffd0
-0	21	1739550705602572951	build.ninja	972cc064b28efe62
-0	15	1739549354719728031	CMakeFiles/c-programming-a-modern-approach.dir/ch_01/exercises/ex_01.c.o	f9ce914661de138b
-16	31	1739550705457573082	c-programming-a-modern-approach	47c8243d70577b49
-1	16	1739549648576484339	CMakeFiles/c-programming-a-modern-approach.dir/ch_01/exercises/ex_02.c.o	8d3ea84f059959cf
 1	16	1739549702833439345	CMakeFiles/c-programming-a-modern-approach.dir/ch_01/exercises/ex_03.c.o	e0fed45f6cf517a6
+0	16	1739550705441573096	CMakeFiles/c-programming-a-modern-approach.dir/ch_01/exercises/ex_04.c.o	efc0c6d0492cffd0
+0	19	1739729564605667461	CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/pp_07.c.o	a5a7254e07822ec9
+1	17	1739729222601601264	CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/pp_06.c.o	5485c80bb22c8bd4
+0	19	1739729080332581721	CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/pp_05.c.o	8b056a7399b0f735
+1	18	1739728887133557553	CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/pp_04.c.o	41edd8ab75b11c08
+1	16	1739725217089463914	CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/pp_01.c.o	314bd6552e7c79e0
+0	17	1739730282753617982	build.ninja	972cc064b28efe62
+0	16	1739727828900190231	CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/pp_02.c.o	33229e9eaba5a09d
+1	16	1739549648576484339	CMakeFiles/c-programming-a-modern-approach.dir/ch_01/exercises/ex_02.c.o	8d3ea84f059959cf
+0	15	1739549354719728031	CMakeFiles/c-programming-a-modern-approach.dir/ch_01/exercises/ex_01.c.o	f9ce914661de138b
+0	21	1739723606433614442	CMakeFiles/c-programming-a-modern-approach.dir/ch_02/exercises/ex_04.c.o	b3bbce74f9eea7e
+0	16	1739727983492331875	CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/pp_03.c.o	863e974f5e983c4d
+16	32	1739730060580637499	c-programming-a-modern-approach	13e13377601533ac
+1	16	1739730060565637501	CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/pp_08.c.o	2b72278a0f326219
+0	26	1739723546419729634	CMakeFiles/c-programming-a-modern-approach.dir/ch_02/exercises/ex_05.c.o	cc3382640e59f5dc
