@@ -49,11 +49,11 @@ cmake_ninja_workdir = /home/erkam/Repository/StudyRepositories/c-programming-a-m
 
 build cmake_object_order_depends_target_c-programming-a-modern-approach: phony || .
 
-build CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/pp_08.c.o: C_COMPILER__c-programming-a-modern-approach_unscanned_Debug /home/erkam/Repository/StudyRepositories/c-programming-a-modern-approach/ch_02/programming_projects/pp_08.c || cmake_object_order_depends_target_c-programming-a-modern-approach
-  DEP_FILE = CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/pp_08.c.o.d
+build CMakeFiles/c-programming-a-modern-approach.dir/ch_03/programming_projects/pp_06.c.o: C_COMPILER__c-programming-a-modern-approach_unscanned_Debug /home/erkam/Repository/StudyRepositories/c-programming-a-modern-approach/ch_03/programming_projects/pp_06.c || cmake_object_order_depends_target_c-programming-a-modern-approach
+  DEP_FILE = CMakeFiles/c-programming-a-modern-approach.dir/ch_03/programming_projects/pp_06.c.o.d
   FLAGS = -g -fdiagnostics-color=always -Wall -W -pedantic -ansi -std=c99
   OBJECT_DIR = CMakeFiles/c-programming-a-modern-approach.dir
-  OBJECT_FILE_DIR = CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects
+  OBJECT_FILE_DIR = CMakeFiles/c-programming-a-modern-approach.dir/ch_03/programming_projects
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/
 #############################################
 # Link the executable c-programming-a-modern-approach
 
-build c-programming-a-modern-approach: C_EXECUTABLE_LINKER__c-programming-a-modern-approach_Debug CMakeFiles/c-programming-a-modern-approach.dir/ch_02/programming_projects/pp_08.c.o
+build c-programming-a-modern-approach: C_EXECUTABLE_LINKER__c-programming-a-modern-approach_Debug CMakeFiles/c-programming-a-modern-approach.dir/ch_03/programming_projects/pp_06.c.o
   DEP_FILE = CMakeFiles/c-programming-a-modern-approach.dir/link.d
   FLAGS = -g
   LINK_FLAGS = -Wl,--dependency-file=CMakeFiles/c-programming-a-modern-approach.dir/link.d
