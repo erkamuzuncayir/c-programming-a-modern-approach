@@ -27,6 +27,22 @@ add_executable(c-programming-a-modern-approach
         #   ch_03/programming_projects/pp_03.c
         #   ch_03/programming_projects/pp_04.c
         #   ch_03/programming_projects/pp_05.c
-        ch_03/programming_projects/pp_06.c
+        #   ch_03/programming_projects/pp_06.c
+        #   ch_04/exercises/ex_01.c
+        #   ch_04/exercises/ex_03.c
+        #   ch_04/exercises/ex_04.c
+        #   ch_04/exercises/ex_05.c
+        #   ch_04/exercises/ex_06.c
+        #   ch_04/exercises/ex_09.c
+        #   ch_04/exercises/ex_10.c
+        #   ch_04/exercises/ex_11.c
+        #   ch_04/exercises/ex_12.c
+        #   ch_04/exercises/ex_15.c
+        #   ch_04/programming_projects/pp_01.c
+        #   ch_04/programming_projects/pp_02.c
+        #   ch_04/programming_projects/pp_03.c
+        #   ch_04/programming_projects/pp_04.c
+        #   ch_04/programming_projects/pp_05.c
+        ch_04/programming_projects/pp_06.c
 
 )
