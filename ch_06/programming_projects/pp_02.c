@@ -17,4 +17,4 @@ int main(void)
     }
 
     printf("Greatest common divisor: %d", m);
-}
+}w
