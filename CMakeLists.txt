@@ -145,5 +145,12 @@ add_executable(c-programming-a-modern-approach
         #   ch_09/programming_projects/pp_05.c
         #   ch_09/programming_projects/pp_06.c
         #   ch_09/programming_projects/pp_07.c
-        ch_09/programming_projects/pp_08.c
+        #   ch_09/programming_projects/pp_08.c
+        #   ch_10/programming_projects/pp_01.c
+        #   ch_10/programming_projects/pp_02.c
+        #   ch_10/programming_projects/pp_03.c
+        #   ch_10/programming_projects/pp_04.c
+        #   ch_10/programming_projects/pp_05.c
+        #   ch_10/programming_projects/pp_06.c
+        ch_10/programming_projects/pp_07.c
 )
