@@ -34,8 +34,8 @@ int main(void)
     }
 
     // For the last word
-    word_count++;
     sentence[word_count][letter_count] = '\0';
+    word_count++;
 
     printf("Reversal of sentence: ");
     while (word_count >= 0)
