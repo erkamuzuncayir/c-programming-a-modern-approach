@@ -231,4 +231,14 @@ add_executable(c-programming-a-modern-approach
         #   ch_14/exercises/ex_14.c
         #   ch_14/exercises/ex_15.c
         #   ch_14/exercises/ex_16.c
+        #   ch_16/exercises/ex_01.c
+        #   ch_16/exercises/ex_02.c
+        #   ch_16/exercises/ex_03.c
+        #   ch_16/exercises/ex_04.c
+        #   ch_16/exercises/ex_05.c
+        #   ch_16/exercises/ex_06.c
+        #   ch_16/exercises/ex_07.c
+        #   ch_16/exercises/ex_08.c
+        #   ch_16/exercises/ex_09.c
+        ch_16/exercises/ex_10.c
 )
