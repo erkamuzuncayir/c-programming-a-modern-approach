@@ -26,8 +26,3 @@ int sum(int (*f)(int), int start, int end)
 }
 
 int increment(int num) { return ++num; }
-
-int compare_parts(const void* p, const void* q)
-{
-    return ((struct part*)q)->number - ((struct part*)p)->number;
-}

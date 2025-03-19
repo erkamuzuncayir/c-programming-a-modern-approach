@@ -254,5 +254,8 @@ add_executable(c-programming-a-modern-approach
         #   ch_17/exercises/ex_08.c
         #   ch_17/exercises/ex_15.c
         #   ch_17/exercises/ex_16.c
-        ch_17/exercises/ex_19.c
+        #   ch_17/exercises/ex_19.c
+        #   ch_17/programming_projects/pp_05.c
+        #   ch_17/programming_projects/pp_06.c
+        ch_17/programming_projects/pp_07.c
 )
