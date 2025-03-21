@@ -270,5 +270,7 @@ add_executable(c-programming-a-modern-approach
         #   ch_20/exercises/ex_12.c
         #   ch_20/exercises/ex_14.c
         #   ch_20/exercises/ex_16.c
-        ch_20/programming_projects/pp_01.c
+        #   ch_20/programming_projects/pp_01.c
+        #   ch_21/exercises/ex_06.c
+        ch_21/programming_projects/pp_01.c
 )
