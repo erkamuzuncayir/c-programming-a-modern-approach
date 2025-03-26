@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.30)
 project(c-programming-a-modern-approach C)
 
-add_compile_options(-Wall -W -pedantic -ansi -std=c99)
-
 add_executable(c-programming-a-modern-approach
         #   ch_02/exercises/ex_01.c
         #   ch_02/exercises/ex_02.c
@@ -297,5 +295,25 @@ add_executable(c-programming-a-modern-approach
         #   ch_22/programming_projects/pp_16.c
         #   ch_22/programming_projects/pp_17.c
         #   ch_22/programming_projects/pp_18.c
-        ch_22/programming_projects/pp_19.c
+        #   ch_22/programming_projects/pp_19.c
+        #   ch_23/exercises/ex_01.c
+        #   ch_23/exercises/ex_02.c
+        #   ch_23/exercises/ex_04.c
+        #   ch_23/exercises/ex_05.c
+        #   ch_23/exercises/ex_08.c
+        #   ch_23/exercises/ex_09.c
+        #   ch_23/exercises/ex_11.c
+        #   ch_23/exercises/ex_12.c
+        #   ch_23/exercises/ex_13.c
+        #   ch_23/programming_projects/pp_01.c
+        #   ch_23/programming_projects/pp_02.c
+        #   ch_23/programming_projects/pp_03.c
+        #   ch_23/programming_projects/pp_04.c
+        #   ch_23/programming_projects/pp_05.c
+        #   ch_23/programming_projects/pp_06.c
+        ch_23/programming_projects/pp_07.c
 )
+
+target_link_libraries(c-programming-a-modern-approach m)
+
+add_compile_options(-O2 -fopt-info -Wall -W -pedantic -ansi -std=c99)

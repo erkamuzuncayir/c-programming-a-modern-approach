@@ -25,3 +25,4 @@ This repository contains my solutions for C Programming: A Modern Approach by K.
 19. [Chapter 20](/ch_20)
 20. [Chapter 21](/ch_21)
 21. [Chapter 22](/ch_22)
+22. [Chapter 23](/ch_23)
