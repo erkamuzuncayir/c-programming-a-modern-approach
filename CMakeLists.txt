@@ -311,7 +311,10 @@ add_executable(c-programming-a-modern-approach
         #   ch_23/programming_projects/pp_04.c
         #   ch_23/programming_projects/pp_05.c
         #   ch_23/programming_projects/pp_06.c
-        ch_23/programming_projects/pp_07.c
+        #   ch_23/programming_projects/pp_07.c
+        #   ch_24/exercises/ex_03.c
+        #	ch_24/exercises/ex_04.c
+        #	ch_24/exercises/ex_05.c
 )
 
 target_link_libraries(c-programming-a-modern-approach m)
