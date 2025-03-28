@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.30)
 project(c-programming-a-modern-approach C)
 
 add_executable(c-programming-a-modern-approach
-        #   ch_02/exercises/ex_01.c
+           ch_02/exercises/ex_01.c
         #   ch_02/exercises/ex_02.c
         #   ch_02/exercises/ex_03.c
         #   ch_02/exercises/ex_04.c
@@ -339,6 +339,10 @@ add_executable(c-programming-a-modern-approach
 		#	ch_27/exercises/ex_02.c
 		#	ch_27/exercises/ex_03.c
 		#	ch_27/exercises/ex_04.c
+		#	ch_27/programming_projects/pp_01.c
+		#	ch_27/programming_projects/pp_02.c
+		#	ch_27/programming_projects/pp_03.c
+		#	ch_27/programming_projects/pp_04.c
 )
 
 target_link_libraries(c-programming-a-modern-approach m)
