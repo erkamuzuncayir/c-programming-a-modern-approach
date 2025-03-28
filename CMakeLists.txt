@@ -317,7 +317,28 @@ add_executable(c-programming-a-modern-approach
         #	ch_24/exercises/ex_05.c
 		#	ch_25/exercises/ex_02.c
 		#	ch_25/programming_projects/pp_01.c
-		ch_25/programming_projects/pp_02.c
+		#	ch_25/programming_projects/pp_02.c
+		#	ch_26/exercises/ex_01.c
+		#	ch_26/exercises/ex_02.c
+		#	ch_26/exercises/ex_03.c
+		#	ch_26/exercises/ex_04.c
+		#	ch_26/exercises/ex_05.c
+		#	ch_26/exercises/ex_06.c
+		#	ch_26/exercises/ex_08.c
+		#	ch_26/exercises/ex_09.c
+		#	ch_26/exercises/ex_10.c
+		#	ch_26/exercises/ex_12.c
+		#	ch_26/exercises/ex_13.c
+		#	ch_26/programming_projects/pp_01.c
+		#	ch_26/programming_projects/pp_02.c
+		#	ch_26/programming_projects/pp_03.c
+		#	ch_26/programming_projects/pp_04.c
+		#	ch_26/programming_projects/pp_05.c
+		#	ch_26/programming_projects/pp_06.c
+		#	ch_27/exercises/ex_01.c
+		#	ch_27/exercises/ex_02.c
+		#	ch_27/exercises/ex_03.c
+		#	ch_27/exercises/ex_04.c
 )
 
 target_link_libraries(c-programming-a-modern-approach m)
